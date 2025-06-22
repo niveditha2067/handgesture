@@ -1,0 +1,8 @@
+gesture-env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+Capstone_Review final.zip
+Capstone.mov
+.DS_Store
